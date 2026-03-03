@@ -1,65 +1,87 @@
-# 🚀 AI List Assist | The Future of Intelligent Reselling
+# AI-List-Assist Roadmap 🗺️
 
-![Project Showcase](./assets/landing_page_mockup_v2.png)
+Public roadmap and feature planning for the [AI-List-Assist](https://github.com/JenR8ed/AI-List-Assist) project - an enterprise-grade reselling automation platform.
 
-> **"Transforming unstructured visual data into optimized marketplace listings with precision AI."**
+## 📋 About This Roadmap
 
-AI List Assist is a high-performance, autonomous automation ecosystem designed to streamline the lifecycle of online reselling. By leveraging advanced Vision AI and real-time market data, it eliminates the friction of manual listing creation, valuation, and negotiation.
+This repository tracks the development timeline, feature requests, and strategic priorities for AI List Assist. It serves as a transparent communication channel between the development team and the community.
+
+## 🎯 Current Focus
+
+### Phase 2: Reporting & Analytics (In Progress)
+- Consignment Payout Dashboard
+- Market Trend Analysis
+- PostgreSQL/Redis seeding for enterprise-scale data
+- Enhanced cost tracking and reporting
+
+## 🚀 Upcoming Phases
+
+### Phase 3: Scale (Planned)
+- Omnichannel marketplace support (Mercari, Poshmark)
+- Studio Mode bulk intake optimization
+- Advanced inventory management features
+- Multi-user/team collaboration tools
+
+### Phase 4: Intelligence (Future)
+- Predictive pricing algorithms
+- Seasonal trend detection
+- Automated repricing strategies
+- Competition monitoring
+
+## 📊 Project Status
+
+| Feature Category | Status | Priority |
+|-----------------|--------|----------|
+| Core Automation | ✅ Complete | High |
+| eBay Integration | ✅ Complete | High |
+| Valuation Engine | ✅ Complete | High |
+| Consignment Tracking | ✅ Complete | Medium |
+| Analytics Dashboard | 🔄 In Progress | High |
+| Market Intelligence | 🔄 In Progress | Medium |
+| Omnichannel Support | 📋 Planned | Medium |
+| Team Collaboration | 📋 Planned | Low |
+
+## 💡 Feature Requests
+
+We welcome feature requests and suggestions! Please:
+
+1. Check existing issues to avoid duplicates
+2. Open a new issue with detailed description
+3. Use the `enhancement` label
+4. Explain your use case and expected benefits
+
+## 🐛 Bug Reports
+
+Found a bug? Please report it in the [main repository issues](https://github.com/JenR8ed/AI-List-Assist/issues).
+
+## 📅 Release Schedule
+
+- **v1.0**: Core automation and eBay integration ✅
+- **v1.5**: Analytics and reporting (Q1 2026) 🔄
+- **v2.0**: Omnichannel support (Q2 2026) 📋
+- **v3.0**: Enterprise features (Q3 2026) 📋
+
+## 🤝 Contributing
+
+While AI-List-Assist is currently a private repository, we appreciate community feedback and suggestions through this roadmap.
+
+### How to Contribute
+- 💬 Join discussions on feature priorities
+- 🐛 Report bugs and issues
+- 💡 Suggest new features
+- 📖 Improve documentation
+
+## 📚 Resources
+
+- [Main Repository](https://github.com/JenR8ed/AI-List-Assist) (Private)
+- [Portfolio Site](https://jenr8ed.github.io/sqatester/)
+- [GitHub Profile](https://github.com/JenR8ed)
+
+## 📞 Contact
+
+Questions about the roadmap? Open an issue or reach out through GitHub.
 
 ---
 
-## ⚡ Key Capabilities
-
-### 👁️ Vision-to-Listing Pipeline
-Proprietary Vision AI detects products from raw photos, extracts key attributes (Brand, Model, Condition), and maps them to marketplace-ready payloads in seconds.
-
-### 💰 Real-Time Market Valuation
-Dynamically pings global marketplace APIs to calculate accurate "Buy It Now" and "Auction" price points based on live supply and demand.
-
-### 🤖 Intelligent Offer Negotiation
-A background agent that evaluates incoming Best Offers against real-time profit margins, automatically countering or accepting based on strategic business rules.
-
-### 🔐 Secure DevOps Foundation
-Built with a state-of-the-art secure workspace using WSL2, signed commits, and encrypted credential bridges—ensuring professional-grade stability and safety.
-
----
-
-## 🗺️ Roadmap & Velocity
-
-Stay updated on our progress through our **[Public Kanban Board](https://github.com/users/JenR8ed/projects)**.
-
-### **Phase 1: Foundation (COMPLETED)**
-- [x] Secure DevOps Workspace Establishment
-- [x] Multi-API Handshake Verification (eBay Sandbox)
-- [x] Containerized Dependency Architecture
-
-### **Phase 2: Live Integrations (COMPLETED)**
-- [x] Real-Time Market Valuation Service
-- [x] Dynamic SKU & Inventory Mapping
-- [x] Automated Database Seeding for Market Trends
-
-### **Phase 3: Intelligence & Optimization (IN PROGRESS)**
-- [ ] **Dynamic Policy Engine**: Automated retrieval of marketplace business policies.
-- [ ] **Negotiation Brain**: Real-time margin-based offer responses.
-- [ ] **Listing Quality Scorer**: AI-driven SEO optimization for titles (80-char Max).
-
----
-
-## 🛠️ Tech Stack
-- **Backend:** Python 3.14.2 (Async Core)
-- **Framework:** Flask / Gunicorn
-- **Environment:** Docker / WSL2
-- **Data:** PostgreSQL / Redis
-- **AI:** Google Gemini (Multimodal) / Perplexity (Search)
-
----
-
-## 📅 Launch Information
-**AI List Assist is currently in invitation-only development.**
-The source code for this project is private to protect proprietary automation logic and trade secrets.
-
-For partnership inquiries or technical discussions, please contact the developer via GitHub.
-
----
-
-**© 2026 Jennifer McKinley (jenr8ed). All rights reserved.**
+**Last Updated**: March 2026  
+**Maintained by**: [@JenR8ed](https://github.com/JenR8ed)
